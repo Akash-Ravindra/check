@@ -43,9 +43,7 @@
 				"version": "0.24"
 			},
 			{
-				"packager": "mispino",
-				"name": "bslscripter",
-				"version": "3.4.0"
+			
 			}]
 		}],
 		"tools": [{
